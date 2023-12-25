@@ -3,7 +3,8 @@
     background-image: url("back");
     color: #0f141e;
     font-size: 18px;
-    font-family: 'Nunito', sans-serif;
+    font-family:sans-serif;
+    /* font-family: 'Nunito', sans-serif; */
     position: relative;
 }
 
@@ -66,7 +67,7 @@ img {
         zoom: 85%;
     }
     .logoabsolutly{
-        padding-top: 47%;
+        padding-top:2% ;
     }
 
     .containerup {
