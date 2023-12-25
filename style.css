@@ -65,6 +65,9 @@ img {
     * {
         zoom: 85%;
     }
+    .logoabsolutly{
+        padding-top: 47%;
+    }
 
     .containerup {
         max-width: 75%;
@@ -81,6 +84,13 @@ img {
     .card {
         padding: 1% 1% 1% 1%;
     }
+   .rightkust {
+       padding-top: 360%;
+   }
+   .leftkust {
+    padding-top: 385%;
+   }
+
 }
 /* knopka */
 .cont {
